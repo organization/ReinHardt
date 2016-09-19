@@ -1,0 +1,36 @@
+{
+  "name": "reinhardt",
+  "version": "1.0.0",
+  "description": "Simple and Powerful Round Robin DNS LoadBalancer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/organization/ReinHardt.git"
+  },
+  "keywords": [
+    "LoadBalancer"
+  ],
+  "author": "hmhmmhm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/organization/ReinHardt/issues"
+  },
+  "homepage": "https://github.com/organization/ReinHardt#readme",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "body-parser": "^1.15.2",
+    "check-ip-address": "^1.1.2",
+    "ddns-webapp": "^1.0.0",
+    "express": "^4.14.0",
+    "masterquest-sqlite3": "^1.0.3",
+    "native-dns": "^0.7.0",
+    "rsa-compat": "^1.2.7",
+    "serve-static": "^1.11.1",
+    "sqlite3": "^3.1.4",
+    "express-jwt": "^3.4.0",
+    "jsonwebtoken": "^7.1.9"
+  }
+}
