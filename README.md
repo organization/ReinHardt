@@ -1,2 +1,2 @@
 # ReinHardt
-Simple and Powerful Round Robin DNS LoadBalancer.
+Minecraft(MC:PC & MC:PE) DNS LoadBalancer.
